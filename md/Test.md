@@ -184,7 +184,7 @@ Bob-->Alice: I am good thanks!
 
 流程图:
 
-```flow
+```mermaid
 st=>start: Start
 e=>end
 op=>operation: My Operation
