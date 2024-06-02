@@ -185,11 +185,8 @@ Bob-->Alice: I am good thanks!
 流程图:
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart TB
+    A & B--> C & D
 ```
 
 > **提示:** 更多关于时序图与流程图的语法请参考:
